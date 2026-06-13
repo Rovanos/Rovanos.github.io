@@ -21,10 +21,10 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/Rovanos_CV_DSA.pdf
+    url: /year-archive/
     
   - title: "CV"
-    url: /files/
+    url: /files/Rovanos_CV_DSA.pdf
     
   # - title: "CV"
   #   url: /cv-json/
